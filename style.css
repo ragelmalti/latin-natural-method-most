@@ -1,0 +1,15 @@
+blockquote {
+    font-style: italic;
+}
+
+span.word:hover {
+    color: gray;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+span.highlighted:hover,
+span.highlighted {
+    color: red;
+    font-weight: 500;
+}
