@@ -13,3 +13,29 @@ span.highlighted {
     color: red;
     font-weight: 500;
 }
+
+.wrap-text {
+    overflow: auto;
+    height: 80vh;
+    line-height: 150%;
+    font-size: 24px;
+    padding: 0.5vh 2.5vh;
+}
+
+.definition {
+    border-top: 3px solid #ef5350;
+    font-size: 28px;
+    padding: 0.25vh 2.5vh;
+}
+
+.navbar {
+    font-size: 20px;
+    padding: 0.5vh;
+    color: white;
+    background-color: #ef5350;
+}
+
+div.navbar > a {
+    text-decoration: none;
+    color: white;
+}
