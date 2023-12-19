@@ -4,6 +4,10 @@
 # Using the beautiful soup library to parse HTML files.
 from bs4 import BeautifulSoup
 import re
+import os
+
+dirStr = "../vol1/"
+directory = os.fsencode(dirStr)
 
 duplicate_words = []
 all_words = []
@@ -12,14 +16,15 @@ missing_words = set()
 
 # Read all lesson html files
 # TODO add for loop that loops through ALL html files.
-with open("../vol1/vol1-lesson1.html", "r") as f:
-    doc = BeautifulSoup(f, "html.parser")
-
-# Select lesson divs from html file, extract all latin words with regex. 
-lessons = doc.select("div.lesson > p")
-for l in lessons:
-    words = l.get_text()
-    duplicate_words += re.findall(r"([^\s,.\?:<]+)", words)
+for file in os.listdir(directory):
+    filename = dirStr + str(os.fsdecode(file))
+    with open(filename, "r") as f:
+        doc = BeautifulSoup(f, "html.parser")
+    
+    lessons = doc.select("div.lesson > p")
+    for l in lessons:
+        words = l.get_text()
+        duplicate_words += re.findall(r"([^\s,.\?\!:<]+)", words)
 
 # Remove duplicate words with set type
 duplicate_words = sorted(list(set((duplicate_words))))

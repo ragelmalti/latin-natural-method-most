@@ -1,182 +1,402 @@
 {
     "ad":{
         "definition":"to, toward",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "agni":{
+        "definition":"lamb",
+        "grammar":"TBA"
     },
     "agno":{
         "definition":"lamb",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "agnos":{
+        "definition":"lamb",
+        "grammar":"TBA"
     },
     "agnum":{
         "definition":"lamb",
-        "grammar":null
+        "grammar":"TBA"
     },
     "agnus":{
         "definition":"lamb",
-        "grammar":null
+        "grammar":"TBA"
     },
     "alba":{
         "definition":"white",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "albi":{
+        "definition":"white",
+        "grammar":"TBA"
     },
     "albus":{
         "definition":"white",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "amaverunt":{
+        "definition":"love",
+        "grammar":"TBA"
+    },
+    "amavit":{
+        "definition":"love",
+        "grammar":"TBA"
     },
     "america":{
         "definition":"america",
-        "grammar":null
+        "grammar":"TBA"
     },
     "americam":{
         "definition":"America",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "anno":{
+        "definition":"year",
+        "grammar":"TBA"
+    },
+    "annus":{
+        "definition":"year",
+        "grammar":"TBA"
+    },
+    "ante":{
+        "definition":"before",
+        "grammar":"TBA"
+    },
+    "antiqua":{
+        "definition":"old, ancient",
+        "grammar":"TBA"
     },
     "baa":{
         "definition":"baa",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "carnes-bovinas-assas":{
+        "definition":"roast beef",
+        "grammar":"TBA"
+    },
+    "christum":{
+        "definition":"Christ",
+        "grammar":"TBA"
     },
     "columbo":{
         "definition":"Columbus",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "columbum":{
+        "definition":"Columbus",
+        "grammar":"TBA"
     },
     "columbus":{
         "definition":"Columbus",
-        "grammar":null
+        "grammar":"TBA"
     },
     "cum":{
         "definition":"with",
-        "grammar":null
+        "grammar":"TBA"
     },
     "dedit":{
         "definition":"gave",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "dixerunt":{
+        "definition":"said",
+        "grammar":"TBA"
     },
     "dixit":{
         "definition":"said",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "domi":{
+        "definition":"at home",
+        "grammar":"TBA"
     },
     "ergo":{
         "definition":"therefore",
-        "grammar":null
+        "grammar":"TBA"
     },
     "est":{
         "definition":"to be, to exist",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "et":{
+        "definition":"and",
+        "grammar":"TBA"
+    },
+    "etrusci":{
+        "definition":"Etruscans",
+        "grammar":"TBA"
+    },
+    "exclamavit":{
+        "definition":"shouted",
+        "grammar":"TBA"
+    },
+    "forum":{
+        "definition":"market, forum",
+        "grammar":"TBA"
+    },
+    "fuerunt":{
+        "definition":"were",
+        "grammar":"TBA"
     },
     "fuit":{
         "definition":"was",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "fundaverunt":{
+        "definition":"founded",
+        "grammar":"TBA"
+    },
+    "habuerunt":{
+        "definition":"had",
+        "grammar":"TBA"
     },
     "habuit":{
         "definition":"had",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "hic":{
+        "definition":"this",
+        "grammar":"TBA"
+    },
+    "iam":{
+        "definition":"already",
+        "grammar":"TBA"
     },
     "in":{
         "definition":"in, into, on",
-        "grammar":null
+        "grammar":"TBA"
     },
     "india":{
         "definition":"India",
-        "grammar":null
+        "grammar":"TBA"
     },
     "indiam":{
         "definition":"India",
-        "grammar":null
+        "grammar":"TBA"
     },
     "invenit":{
         "definition":"found",
-        "grammar":null
+        "grammar":"TBA"
     },
     "isabella":{
         "definition":"Isabella",
-        "grammar":null
+        "grammar":"TBA"
     },
     "isabellam":{
         "definition":"Isabella",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "magna":{
+        "definition":"great",
+        "grammar":"TBA"
+    },
+    "magnas":{
+        "definition":"great",
+        "grammar":"TBA"
+    },
+    "magnus":{
+        "definition":"great",
+        "grammar":"TBA"
     },
     "marcus":{
         "definition":"Marcus",
-        "grammar":null
+        "grammar":"TBA"
     },
     "maria":{
         "definition":"Maria",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "millesimo":{
+        "definition":"1000",
+        "grammar":"TBA"
     },
     "mundus":{
         "definition":"world",
-        "grammar":null
+        "grammar":"TBA"
     },
     "nauta":{
         "definition":"sailor",
-        "grammar":null
+        "grammar":"TBA"
     },
     "navem":{
         "definition":"ship",
-        "grammar":null
+        "grammar":"TBA"
     },
     "navis":{
         "definition":"ship",
-        "grammar":null
+        "grammar":"TBA"
     },
     "non":{
         "definition":"not",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "oink":{
+        "definition":"oink",
+        "grammar":"TBA"
+    },
+    "oui":{
+        "definition":"oui",
+        "grammar":"TBA"
     },
     "parva":{
         "definition":"small",
-        "grammar":null
+        "grammar":"TBA"
     },
     "parvum":{
         "definition":"small",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "parvus":{
+        "definition":"little",
+        "grammar":"TBA"
     },
     "pecuniam":{
         "definition":"money",
-        "grammar":null
+        "grammar":"TBA"
     },
     "planus":{
         "definition":"flat",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "porci":{
+        "definition":"pig",
+        "grammar":"TBA"
+    },
+    "porcos":{
+        "definition":"pig",
+        "grammar":"TBA"
+    },
+    "porcus":{
+        "definition":"pig",
+        "grammar":"TBA"
     },
     "puella":{
         "definition":"girl",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "puellam":{
+        "definition":"girl",
+        "grammar":"TBA"
+    },
+    "quod":{
+        "definition":"that",
+        "grammar":"TBA"
     },
     "regina":{
         "definition":"queen",
-        "grammar":null
+        "grammar":"TBA"
     },
     "reginam":{
         "definition":"queen",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "remansit":{
+        "definition":"remained",
+        "grammar":"TBA"
+    },
+    "remus":{
+        "definition":"Remus",
+        "grammar":"TBA"
+    },
+    "roma":{
+        "definition":"Rome",
+        "grammar":"TBA"
+    },
+    "romam":{
+        "definition":"Rome",
+        "grammar":"TBA"
+    },
+    "romana":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romanas":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romani":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romanos":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romulus":{
+        "definition":"Romulus",
+        "grammar":"TBA"
     },
     "rotunda":{
         "definition":"round",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "rotundi":{
+        "definition":"round",
+        "grammar":"TBA"
     },
     "rotundus":{
         "definition":"round",
-        "grammar":null
+        "grammar":"TBA"
     },
     "schola":{
         "definition":"school",
-        "grammar":null
+        "grammar":"TBA"
     },
     "scholam":{
         "definition":"school",
-        "grammar":null
+        "grammar":"TBA"
     },
     "sed":{
         "definition":"but",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "terra":{
+        "definition":"land",
+        "grammar":"TBA"
+    },
+    "terras":{
+        "definition":"land",
+        "grammar":"TBA"
+    },
+    "urbe":{
+        "definition":"city",
+        "grammar":"TBA"
+    },
+    "urbes":{
+        "definition":"city",
+        "grammar":"TBA"
+    },
+    "urbs":{
+        "definition":"city",
+        "grammar":"TBA"
+    },
+    "venerunt":{
+        "definition":"came",
+        "grammar":"TBA"
     },
     "venit":{
         "definition":"came",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "veritatem":{
+        "definition":"truth",
+        "grammar":"TBA"
+    },
+    "viderunt":{
+        "definition":"saw",
+        "grammar":"TBA"
     },
     "vidit":{
         "definition":"saw",
-        "grammar":null
+        "grammar":"TBA"
+    },
+    "vir":{
+        "definition":"man",
+        "grammar":"TBA"
+    },
+    "viri":{
+        "definition":"man",
+        "grammar":"TBA"
     }
 }
