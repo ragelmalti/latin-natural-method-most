@@ -40,12 +40,14 @@ div.navbar > a {
     color: white;
 }
 
+.defined_word,
 #defined_word {
     color: red;
     font-weight: bold;
     font-size: 32px;
 }
 
+.grammar,
 #grammar {
     color: blue;
     font-size: 26px;
