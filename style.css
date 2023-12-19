@@ -22,7 +22,7 @@ span.highlighted {
     padding: 0.5vh 2.5vh;
 }
 
-.definition {
+#definition {
     border-top: 3px solid #ef5350;
     font-size: 28px;
     padding: 0.25vh 2.5vh;
@@ -38,4 +38,16 @@ span.highlighted {
 div.navbar > a {
     text-decoration: none;
     color: white;
+}
+
+#defined_word {
+    color: red;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+#grammar {
+    color: blue;
+    font-size: 26px;
+    font-style: italic;
 }

@@ -2,6 +2,10 @@ function selectWord(e) {
     // Untoggles words that have already been highlighted
     // Solution taken from: https://stackoverflow.com/a/22270709
     existsHighlighted = document.getElementsByClassName('highlighted');
+    wordSpan = document.getElementById('defined_word');
+    defSpan = document.getElementById('def');
+    grammarSpan = document.getElementById('grammar');
+    //console.log(definitionDiv);
     if (e.target.classList.contains('word')) {
         [].forEach.call(existsHighlighted, function(el) {
             el.classList.remove("highlighted");
@@ -10,7 +14,33 @@ function selectWord(e) {
         // Figure out how to remove forbidden chars:
         // ' , . : ?
         let selectedWord = e.target.innerHTML;
-        console.log(selectedWord);
+        wordSpan.textContent = selectedWord + ":";
+        
+        // Select definition from json file
+        fetch('../words.json')
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(json) {
+            // Solution taken from: https://stackoverflow.com/a/1946247
+            try {
+                let definition = json[selectedWord.toLowerCase()].definition;
+                defSpan.textContent = definition;
+            }
+            catch {
+                console.log("Error, undefined word!");
+                defSpan.textContent = "undefined"
+            }
+
+            try {
+                let grammar = json[selectedWord.toLowerCase()].grammar;
+                grammarSpan.textContent = grammar;
+            }
+            catch {
+                grammarSpan.textContent = "";
+                console.log("Error, undefined grammar!");
+            }
+        })
     }
     return;
 }
@@ -29,4 +59,4 @@ function addSpanTagsToLatinWords() {
     return;
 }
 
-addSpanTagsToLatinWords()
+addSpanTagsToLatinWords();
