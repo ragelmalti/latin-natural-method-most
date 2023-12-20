@@ -22,17 +22,34 @@ span.highlighted {
     padding: 0.5vh 2.5vh;
 }
 
+div.index {
+    padding: 0.5vh 2.5vh;
+}
+
+a, a:visited, a:hover, a:active {
+    color: #1976d2;
+    text-decoration: none;
+}  
+
+div.index > ol > li,
+div.index > ul > li {
+    margin: 5px;
+}
+
 #definition {
-    border-top: 3px solid #ef5350;
+    /* Original color: #ef5350; */
+    border-top: 3px solid #1976d2;
     font-size: 28px;
+    overflow: auto;
     padding: 0.25vh 2.5vh;
 }
 
 .navbar {
+    /* Original color: #ef5350; */
     font-size: 20px;
     padding: 0.5vh;
     color: white;
-    background-color: #ef5350;
+    background-color: #1976d2;
 }
 
 div.navbar > a {
@@ -49,7 +66,7 @@ div.navbar > a {
 
 .grammar,
 #grammar {
-    color: blue;
+    color: #1919d1;
     font-size: 26px;
     font-style: italic;
 }
