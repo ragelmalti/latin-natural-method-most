@@ -70,3 +70,8 @@ div.navbar > a {
     font-size: 26px;
     font-style: italic;
 }
+
+.explanation {
+    border-top: 2px solid #c0c0c0;
+    border-bottom: 2px solid #c0c0c0;
+}
