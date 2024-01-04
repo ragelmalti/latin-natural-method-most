@@ -31,6 +31,10 @@
         "definition":"white",
         "grammar":"TBA"
     },
+    "album":{
+        "definition":"white",
+        "grammar":"TBA"
+    },
     "albus":{
         "definition":"white",
         "grammar":"TBA"
@@ -47,8 +51,20 @@
         "definition":"america",
         "grammar":"TBA"
     },
+    "americae":{
+        "definition":"America",
+        "grammar":"TBA"
+    },
     "americam":{
         "definition":"America",
+        "grammar":"TBA"
+    },
+    "americanam":{
+        "definition":"America",
+        "grammar":"TBA"
+    },
+    "annis":{
+        "definition":"year",
         "grammar":"TBA"
     },
     "anno":{
@@ -67,12 +83,36 @@
         "definition":"old, ancient",
         "grammar":"TBA"
     },
+    "aquam":{
+        "definition":"water",
+        "grammar":"TBA"
+    },
     "baa":{
         "definition":"baa",
         "grammar":"TBA"
     },
+    "bello":{
+        "definition":"battle, war",
+        "grammar":"TBA"
+    },
+    "bellum":{
+        "definition":"battle, war",
+        "grammar":"TBA"
+    },
+    "boni":{
+        "definition":"good",
+        "grammar":"TBA"
+    },
+    "bonus":{
+        "definition":"good",
+        "grammar":"TBA"
+    },
     "carnes-bovinas-assas":{
         "definition":"roast beef",
+        "grammar":"TBA"
+    },
+    "cecidit":{
+        "definition":"fell",
         "grammar":"TBA"
     },
     "christum":{
@@ -89,6 +129,10 @@
     },
     "columbus":{
         "definition":"Columbus",
+        "grammar":"TBA"
+    },
+    "contra":{
+        "definition":"against",
         "grammar":"TBA"
     },
     "cum":{
@@ -111,6 +155,14 @@
         "definition":"at home",
         "grammar":"TBA"
     },
+    "enim":{
+        "definition":"for",
+        "grammar":"TBA"
+    },
+    "erant":{
+        "definition":"were",
+        "grammar":"TBA"
+    },
     "ergo":{
         "definition":"therefore",
         "grammar":"TBA"
@@ -123,12 +175,52 @@
         "definition":"and",
         "grammar":"TBA"
     },
+    "etiam":{
+        "definition":"also",
+        "grammar":"TBA"
+    },
     "etrusci":{
         "definition":"Etruscans",
         "grammar":"TBA"
     },
+    "etruscis":{
+        "definition":"Etruscans",
+        "grammar":"TBA"
+    },
+    "etruscum":{
+        "definition":"Etruscan",
+        "grammar":"TBA"
+    },
+    "etruscus":{
+        "definition":"Etruscan",
+        "grammar":"TBA"
+    },
+    "exclamaverunt":{
+        "definition":"exclaim",
+        "grammar":"TBA"
+    },
     "exclamavit":{
         "definition":"shouted",
+        "grammar":"TBA"
+    },
+    "exercitum":{
+        "definition":"army",
+        "grammar":"TBA"
+    },
+    "exercitus":{
+        "definition":"army",
+        "grammar":"TBA"
+    },
+    "expulerunt":{
+        "definition":"expelled",
+        "grammar":"TBA"
+    },
+    "foederati":{
+        "definition":"federation",
+        "grammar":"TBA"
+    },
+    "foederatos":{
+        "definition":"federation",
         "grammar":"TBA"
     },
     "forum":{
@@ -143,8 +235,16 @@
         "definition":"was",
         "grammar":"TBA"
     },
+    "fuitne":{
+        "definition":"was",
+        "grammar":"TBA"
+    },
     "fundaverunt":{
         "definition":"founded",
+        "grammar":"TBA"
+    },
+    "georgius":{
+        "definition":"George",
         "grammar":"TBA"
     },
     "habuerunt":{
@@ -159,8 +259,36 @@
         "definition":"this",
         "grammar":"TBA"
     },
+    "horatius":{
+        "definition":"Horatius",
+        "grammar":"TBA"
+    },
     "iam":{
         "definition":"already",
+        "grammar":"TBA"
+    },
+    "iecerunt":{
+        "definition":"threw",
+        "grammar":"TBA"
+    },
+    "iecit":{
+        "definition":"threw",
+        "grammar":"TBA"
+    },
+    "igne":{
+        "definition":"fire",
+        "grammar":"TBA"
+    },
+    "ignem":{
+        "definition":"fire",
+        "grammar":"TBA"
+    },
+    "ignis":{
+        "definition":"fire",
+        "grammar":"TBA"
+    },
+    "illo":{
+        "definition":"that",
         "grammar":"TBA"
     },
     "in":{
@@ -187,6 +315,10 @@
         "definition":"Isabella",
         "grammar":"TBA"
     },
+    "lars-porsenna":{
+        "definition":"Lars Porsena",
+        "grammar":"TBA"
+    },
     "magna":{
         "definition":"great",
         "grammar":"TBA"
@@ -195,8 +327,28 @@
         "definition":"great",
         "grammar":"TBA"
     },
+    "magni":{
+        "definition":"great, large",
+        "grammar":"TBA"
+    },
+    "magnum":{
+        "definition":"great, large",
+        "grammar":"TBA"
+    },
     "magnus":{
         "definition":"great",
+        "grammar":"TBA"
+    },
+    "mali":{
+        "definition":"bad",
+        "grammar":"TBA"
+    },
+    "malum":{
+        "definition":"bad",
+        "grammar":"TBA"
+    },
+    "malus":{
+        "definition":"bad",
         "grammar":"TBA"
     },
     "marcus":{
@@ -209,6 +361,14 @@
     },
     "millesimo":{
         "definition":"1000",
+        "grammar":"TBA"
+    },
+    "multi":{
+        "definition":"many",
+        "grammar":"TBA"
+    },
+    "mundo":{
+        "definition":"world",
         "grammar":"TBA"
     },
     "mundus":{
@@ -239,7 +399,15 @@
         "definition":"oui",
         "grammar":"TBA"
     },
+    "paraverunt":{
+        "definition":"prepare",
+        "grammar":"TBA"
+    },
     "parva":{
+        "definition":"small",
+        "grammar":"TBA"
+    },
+    "parvi":{
         "definition":"small",
         "grammar":"TBA"
     },
@@ -259,6 +427,18 @@
         "definition":"flat",
         "grammar":"TBA"
     },
+    "pons":{
+        "definition":"bridge",
+        "grammar":"TBA"
+    },
+    "ponte":{
+        "definition":"bridge",
+        "grammar":"TBA"
+    },
+    "pontem":{
+        "definition":"bridge",
+        "grammar":"TBA"
+    },
     "porci":{
         "definition":"pig",
         "grammar":"TBA"
@@ -271,6 +451,22 @@
         "definition":"pig",
         "grammar":"TBA"
     },
+    "postquam":{
+        "definition":"after",
+        "grammar":"TBA"
+    },
+    "primi":{
+        "definition":"first",
+        "grammar":"TBA"
+    },
+    "primis":{
+        "definition":"first",
+        "grammar":"TBA"
+    },
+    "primus":{
+        "definition":"first",
+        "grammar":"TBA"
+    },
     "puella":{
         "definition":"girl",
         "grammar":"TBA"
@@ -279,8 +475,24 @@
         "definition":"girl",
         "grammar":"TBA"
     },
+    "pugnam":{
+        "definition":"battle",
+        "grammar":"TBA"
+    },
+    "quando":{
+        "definition":"when",
+        "grammar":"TBA"
+    },
     "quod":{
         "definition":"that",
+        "grammar":"TBA"
+    },
+    "regem":{
+        "definition":"king",
+        "grammar":"TBA"
+    },
+    "reges":{
+        "definition":"kings",
         "grammar":"TBA"
     },
     "regina":{
@@ -291,12 +503,24 @@
         "definition":"queen",
         "grammar":"TBA"
     },
+    "regnaverunt":{
+        "definition":"ruled",
+        "grammar":"TBA"
+    },
+    "remanserunt":{
+        "definition":"remained",
+        "grammar":"TBA"
+    },
     "remansit":{
         "definition":"remained",
         "grammar":"TBA"
     },
     "remus":{
         "definition":"Remus",
+        "grammar":"TBA"
+    },
+    "rex":{
+        "definition":"king",
         "grammar":"TBA"
     },
     "roma":{
@@ -311,6 +535,10 @@
         "definition":"Roman",
         "grammar":"TBA"
     },
+    "romanam":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
     "romanas":{
         "definition":"Roman",
         "grammar":"TBA"
@@ -319,7 +547,23 @@
         "definition":"Roman",
         "grammar":"TBA"
     },
+    "romanis":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romano":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
     "romanos":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romanum":{
+        "definition":"Roman",
+        "grammar":"TBA"
+    },
+    "romanus":{
         "definition":"Roman",
         "grammar":"TBA"
     },
@@ -351,7 +595,43 @@
         "definition":"but",
         "grammar":"TBA"
     },
+    "sescentesimo":{
+        "definition":"600",
+        "grammar":"TBA"
+    },
+    "status":{
+        "definition":"states",
+        "grammar":"TBA"
+    },
+    "steterunt":{
+        "definition":"stood",
+        "grammar":"TBA"
+    },
+    "stetit":{
+        "definition":"stood",
+        "grammar":"TBA"
+    },
+    "sunt":{
+        "definition":"are",
+        "grammar":"TBA"
+    },
+    "tarquinio":{
+        "definition":"Tarquinius",
+        "grammar":"TBA"
+    },
+    "tarquinium":{
+        "definition":"Tarquinius",
+        "grammar":"TBA"
+    },
+    "tarquinius":{
+        "definition":"Tarquinius",
+        "grammar":"TBA"
+    },
     "terra":{
+        "definition":"land",
+        "grammar":"TBA"
+    },
+    "terram":{
         "definition":"land",
         "grammar":"TBA"
     },
@@ -359,7 +639,23 @@
         "definition":"land",
         "grammar":"TBA"
     },
+    "throno":{
+        "definition":"throne",
+        "grammar":"TBA"
+    },
+    "tyrannus":{
+        "definition":"tyrant",
+        "grammar":"TBA"
+    },
+    "ultimus":{
+        "definition":"last",
+        "grammar":"TBA"
+    },
     "urbe":{
+        "definition":"city",
+        "grammar":"TBA"
+    },
+    "urbem":{
         "definition":"city",
         "grammar":"TBA"
     },
@@ -397,6 +693,10 @@
     },
     "viri":{
         "definition":"man",
+        "grammar":"TBA"
+    },
+    "washington":{
+        "definition":"Washington",
         "grammar":"TBA"
     }
 }
