@@ -1,12 +1,19 @@
 name,definition,grammar
 ad,"to, toward",TBA
+aequi,the Aequi,TBA
+aequis,the Aequi,TBA
+aequos,the Aequi,TBA
+agna,lamb,TBA
 agni,lamb,TBA
 agno,lamb,TBA
 agnos,lamb,TBA
 agnum,lamb,TBA
 agnus,lamb,TBA
+agris,field,TBA
+agros,field,TBA
 alba,white,TBA
 albi,white,TBA
+albos,white,TBA
 album,white,TBA
 albus,white,TBA
 amaverunt,love,TBA
@@ -18,58 +25,116 @@ americanam,America,TBA
 annis,year,TBA
 anno,year,TBA
 annus,year,TBA
+anseres,geese,TBA
 ante,before,TBA
 antiqua,"old, ancient",TBA
+aqua,water,TBA
 aquam,water,TBA
+audi,hear,TBA
+audiverunt,hear,TBA
 baa,baa,TBA
+barbari,barbarians,TBA
 bello,"battle, war",TBA
 bellum,"battle, war",TBA
+bonae,good,TBA
+bonas,good,TBA
 boni,good,TBA
+bonis,good,TBA
+bonos,good,TBA
+bonum,good,TBA
 bonus,good,TBA
+capitolio,capitol,TBA
+capitolium,capitol,TBA
 carnes-bovinas-assas,roast beef,TBA
+ceciderunt,fall,TBA
 cecidit,fell,TBA
+ceperunt,captured,TBA
+christiana,Christan,TBA
 christum,Christ,TBA
+cincinnatum,Cincinnatus,TBA
+cincinnatus,Cincinnatus,TBA
+cives,citizen,TBA
+civibus,citizen,TBA
 columbo,Columbus,TBA
 columbum,Columbus,TBA
 columbus,Columbus,TBA
+consiliis,counselor,TBA
+consilium,counselor,TBA
+consul,"highest elected Roman official - 2/year, supreme magistrate",TBA
+consules,"highest elected Roman official - 2/year, supreme magistrate",TBA
 contra,against,TBA
+creaverunt,create,TBA
+creavit,create,TBA
 cum,with,TBA
+de,"from, about, of",TBA
+dederunt,give,TBA
 dedit,gave,TBA
+dictator,Dictator,TBA
+dictatorem,Dictator,TBA
+diebus,day,TBA
+divites,the rich,TBA
 dixerunt,said,TBA
 dixit,said,TBA
 domi,at home,TBA
+dormiebant,sleeping,TBA
+duo,two,TBA
+duos,two,TBA
 enim,for,TBA
 erant,were,TBA
 ergo,therefore,TBA
 est,"to be, to exist",TBA
+estne,to be,TBA
 et,and,TBA
 etiam,also,TBA
 etrusci,Etruscans,TBA
 etruscis,Etruscans,TBA
+etruscos,Etruscans,TBA
 etruscum,Etruscan,TBA
 etruscus,Etruscan,TBA
+ex,out of,TBA
 exclamaverunt,exclaim,TBA
 exclamavit,shouted,TBA
+exercitibus,army,TBA
+exercitu,army,TBA
 exercitum,army,TBA
 exercitus,army,TBA
 expulerunt,expelled,TBA
+fabulam,a legend,TBA
+fecerunt,make,TBA
+fecit,make,TBA
+fere,"almost, nearly",TBA
 foederati,federation,TBA
 foederatos,federation,TBA
+fortes,brave,TBA
+fortibus,brave,TBA
+fortis,brave,TBA
+fortitudine,bravery,TBA
 forum,"market, forum",TBA
 fuerunt,were,TBA
 fuit,was,TBA
 fuitne,was,TBA
 fundaverunt,founded,TBA
+gailis,Gauls,TBA
+galli,Gauls,TBA
+gallia,Gaul,TBA
+gallis,geese,TBA
+gallos,Gauls,TBA
 georgius,George,TBA
+graeci,Greeks,TBA
+graecia,Greece,TBA
+graeciam,Greece,TBA
+graecus,Greek,TBA
 habuerunt,had,TBA
 habuit,had,TBA
 hic,this,TBA
 horatius,Horatius,TBA
+humanis,human,TBA
 iam,already,TBA
 iecerunt,threw,TBA
 iecit,threw,TBA
 igne,fire,TBA
 ignem,fire,TBA
+igni,fire,TBA
 ignis,fire,TBA
 illo,that,TBA
 in,"in, into, on",TBA
@@ -78,25 +143,50 @@ indiam,India,TBA
 invenit,found,TBA
 isabella,Isabella,TBA
 isabellam,Isabella,TBA
+italia,Italy,TBA
+italiam,Italy,TBA
 lars-porsenna,Lars Porsena,TBA
+legati,legate,TBA
+legem,law,TBA
+leges,laws,TBA
+legibus,laws,TBA
 magna,great,TBA
+magnam,great,TBA
 magnas,great,TBA
 magni,"great, large",TBA
+magnis,great,TBA
+magno,great,TBA
 magnum,"great, large",TBA
 magnus,great,TBA
 mali,bad,TBA
 malum,bad,TBA
 malus,bad,TBA
+marcum,Marcus,TBA
 marcus,Marcus,TBA
 maria,Maria,TBA
+mariam,Maria,TBA
 millesimo,1000,TBA
+misit,sent,TBA
+monte,mountain,TBA
+montem,mountain,TBA
+multas,many,TBA
 multi,many,TBA
+multis,many,TBA
+multos,many,TBA
 mundo,world,TBA
 mundus,world,TBA
+narraverunt,told,TBA
 nauta,sailor,TBA
 navem,ship,TBA
+navi,ship,TBA
+navibus,ships,TBA
 navis,ship,TBA
 non,not,TBA
+nonagesimo,90,TBA
+novum,new,TBA
+nunc,now,TBA
+o,o,TBA
+officium,office,TBA
 oink,oink,TBA
 oui,oui,TBA
 paraverunt,prepare,TBA
@@ -104,8 +194,19 @@ parva,small,TBA
 parvi,small,TBA
 parvum,small,TBA
 parvus,little,TBA
+patricii,patrician,TBA
+patriciis,patrician,TBA
+patricios,patrician,TBA
+pauperes,poor,TBA
+pecunia,money,TBA
 pecuniam,money,TBA
+periculo,danger,TBA
+periculum,danger,TBA
 planus,flat,TBA
+plebe,Plebs,TBA
+plebem,Plebs,TBA
+plebis,Plebs,TBA
+plebs,Plebs,TBA
 pons,bridge,TBA
 ponte,bridge,TBA
 pontem,bridge,TBA
@@ -113,14 +214,23 @@ porci,pig,TBA
 porcos,pig,TBA
 porcus,pig,TBA
 postquam,after,TBA
+potestate,power,TBA
+potestatem,power,TBA
 primi,first,TBA
 primis,first,TBA
 primus,first,TBA
+protestatem,power,TBA
 puella,girl,TBA
 puellam,girl,TBA
+pugna,fight,TBA
 pugnam,battle,TBA
+pugnaverunt,fight,TBA
+pugnavit,fight,TBA
 quando,when,TBA
+quia,because,TBA
 quod,that,TBA
+rarum,rate,TBA
+rebus,thing,TBA
 regem,king,TBA
 reges,kings,TBA
 regina,queen,TBA
@@ -145,14 +255,31 @@ romulus,Romulus,TBA
 rotunda,round,TBA
 rotundi,round,TBA
 rotundus,round,TBA
+rursus,again,TBA
+sacro,sacred,TBA
+sacrum,sacred,TBA
 schola,school,TBA
 scholam,school,TBA
+scholas,school,TBA
+sciverunt,wrote,TBA
+scivit,knew,TBA
+scripserunt,wrote,TBA
+scripsit,wrote,TBA
 sed,but,TBA
+semper,always,TBA
+senatu,senate,TBA
+senatum,senate,TBA
+senatus,senate,TBA
 sescentesimo,600,TBA
+soli,only,TBA
+solon,Solon,TBA
+solonis,Solon,TBA
 status,states,TBA
 steterunt,stood,TBA
 stetit,stood,TBA
+sumus,we are,TBA
 sunt,are,TBA
+suntne,to be,TBA
 tarquinio,Tarquinius,TBA
 tarquinium,Tarquinius,TBA
 tarquinius,Tarquinius,TBA
@@ -160,17 +287,34 @@ terra,land,TBA
 terram,land,TBA
 terras,land,TBA
 throno,throne,TBA
+totam,total,TBA
+trecentesimo,300,TBA
+tribuni,tribune,TBA
+tribunis,tribune,TBA
+tribunos,tribune,TBA
 tyrannus,tyrant,TBA
+ubi,where,TBA
 ultimus,last,TBA
 urbe,city,TBA
 urbem,city,TBA
 urbes,city,TBA
 urbs,city,TBA
+uxor,wife,TBA
+uxorem,wife,TBA
 venerunt,came,TBA
 venit,came,TBA
+venite,come,TBA
+veritate,truth,TBA
 veritatem,truth,TBA
+vicerunt,conquer,TBA
+vicit,conquer,TBA
 viderunt,saw,TBA
 vidit,saw,TBA
 vir,man,TBA
 viri,man,TBA
+viris,men,TBA
+viros,men,TBA
+voce,voice,TBA
+voluerunt,want,TBA
+voluit,want,TBA
 washington,Washington,TBA
